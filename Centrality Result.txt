@@ -1,0 +1,26 @@
+                         Male Total Centrality  Female Total Centrality  \
+Movie Name                                                                
+100 Days                            382.500000              2176.600000   
+13B                                 326.500000               222.866667   
+16 December                        4477.583333                 0.000000   
+1920                                458.333333               516.833333   
+1920 London                        2729.300000              1852.366667   
+...                                        ...                      ...   
+United Six                            0.000000               313.666667   
+Uphaar                                0.000000              3087.955556   
+What the Fish                         0.000000               529.333333   
+Yaadon Ki Kasam                       0.000000               166.000000   
+Yeh Raat Phir Na Aayegi               0.000000                77.000000   
+
+                        Dominance  
+Movie Name                         
+100 Days                   Female  
+13B                          Male  
+16 December                  Male  
+1920                       Female  
+1920 London                  Male  
+...                           ...  
+United Six                 Female  
+...
+Yaadon Ki Kasam            Female  
+Yeh Raat Phir Na Aayegi    Female  
