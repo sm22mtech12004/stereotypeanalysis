@@ -35,5 +35,6 @@ The task involved analyzing gender dominance in movies based on centrality metri
 The task provided a systematic approach to identifying gender dominance in movies based on the centrality of male and female characters. The analysis revealed which movies had more central or influential male characters versus female characters, based on the aggregated centrality scores. The results can be used to further explore gender representation in films and understand potential biases in character roles.
 
 #### Code for all above analysis is provied in same jupyter notebook
+#### No training and testing done (as dataset is not lablled)
 
 
