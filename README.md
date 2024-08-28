@@ -23,7 +23,7 @@ To analyze the gender distribution and representation in movie posters:
 - **Bounding Box Size Calculation:** Calculate the area of each bounding box (width × height).
 - **Aggregate Bounding Box Sizes:** Sum the bounding box areas for male and female faces separately.Compare the total areas to determine gender dominance.The code for this part of the analysis is available in the repository.
 
-### 2 Sentiment analysis (yerawise)
+### 2 Sentiment analysis (yearwise)
 The code is designed to analyze the sentiment of adverbs used in descriptions of females over the years, as recorded in a CSV file.
 - **Sentiment Analysis:** It calculates how positive, neutral, or negative these descriptions are for each year.
 - **Visualization:** The results are visualized using a line plot to show trends in sentiment over time.
